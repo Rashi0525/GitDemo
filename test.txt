@@ -1,0 +1,4 @@
+some lines
+added
+new
+old
